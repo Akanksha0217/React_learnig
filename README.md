@@ -5,7 +5,7 @@ This repository contains all the projects, exercises, and notes I’ve created w
 ---
 ## 📚 About React
 **React.js** is a popular JavaScript library developed by Facebook for building fast, interactive, and reusable UI components.  
-In this repository, I explore React concepts like:
+In this repository, I explore React concepts like: 
 - Components & JSX  
 - Props and State  
 - useState & useEffect Hooks  
