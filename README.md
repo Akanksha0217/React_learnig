@@ -13,7 +13,7 @@ In this repository, I explore React concepts like:
 - Event Handling  
 - Forms & Controlled Components  
 - API Integration with Fetch/Axios  
-- Conditional Rendering  
+- Conditional Rendering   
 - Lists and Keys  
 - Context API & Prop Drilling  
 - Lifecycle Methods  
