@@ -28,16 +28,6 @@ In this repository, I explore React concepts like:
 
 ---
 
-## 🧩 Projects in This Repo
-| # | Project Name | Description | Live Demo |
-|---|---------------|-------------|------------|
-| 1 | Hello React | My first React app | — |
-| 2 | Counter App | Simple app using `useState` | — |
-| 3 | To-Do List | Task manager app using state | — |
-| 4 | API Fetch App | Displays data from a public API | — |
-| 5 | React Router Demo | Navigation between multiple pages | — |
-
-
 ---
 
 ## 🛠️ Tools & Technologies
