@@ -1,0 +1,17 @@
+## Conditional Rendering
+### 📌 What is Conditional Rendering?
+- Conditional Rendering means showing different UI based on a condition.
+-👉 In React, we use JavaScript conditions to control what is rendered.
+
+### 📌 Why Conditional Rendering?
+It is used when:
+- User is logged in / logged out
+- Data is loading
+- Showing error or success messages
+- Showing / hiding components
+
+### 📌 Key Points
+- Conditional rendering uses JavaScript
+- Ternary operator is most common
+- && is used for single condition display
+- Helps build dynamic UI
